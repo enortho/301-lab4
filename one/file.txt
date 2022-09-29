@@ -1,3 +1,5 @@
 /**
 * ~~information~~
 **/
+
+public class Food{}
